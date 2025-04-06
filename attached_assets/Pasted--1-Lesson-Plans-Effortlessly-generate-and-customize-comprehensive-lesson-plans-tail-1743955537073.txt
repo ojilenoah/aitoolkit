@@ -1,0 +1,182 @@
+### 🟩 1. **Lesson Plans**
+
+> **"Effortlessly generate and customize comprehensive lesson plans tailored to your curriculum."**
+
+1. **Education Copilot**  
+    An AI-powered platform that assists teachers in creating structured lesson plans across various subjects, enhancing productivity and customization.  
+    [Visit Education Copilot](https://educationcopilot.com/ai-lesson-plans/)
+    
+2. **LessonPlans.ai**  
+    Utilizes AI to generate detailed lesson plans, including step-by-step guides and engaging activities, customizable to fit teaching styles and student needs.  
+    [Visit LessonPlans.ai](https://www.aitoolmate.com/best-ai-tools-for-teachers/)
+    
+3. **Curipod**  
+    An AI-powered solution that simplifies lesson planning by generating inquiry-based lessons tailored to specific grades and topics.  
+    [Visit Curipod](https://www.aitoolmate.com/best-ai-tools-for-teachers/)
+    
+4. **MagicSchool.ai**  
+    Offers a suite of AI tools to automate various educational tasks, including lesson planning, making it suitable for all grade levels.  
+    [Visit MagicSchool.ai](https://www.ispringsolutions.com/blog/ai-tools-for-teachers)
+    
+
+---
+
+### 🟦 2. **Institutional Resources**
+
+> **"Access a variety of AI-enhanced resources to support institutional needs and enhance educational materials."**
+
+1. **Freepik AI**  
+    Provides AI-generated images and design resources, aiding in the creation of visually appealing educational content.  
+    [Visit Freepik AI](https://www.freepik.com/ai)
+    
+2. **Roshi AI**  
+    Helps teachers create learning materials from online content, simplifying text and generating questions to enhance comprehension.  
+    [Visit Roshi AI](https://www.aitoolmate.com/best-ai-tools-for-teachers/)
+    
+3. **Difft**  
+    Assists in creating differentiated text resources by generating summaries, adapted reading passages, and comprehension questions tailored to various reading levels.  
+    [Visit Difft](https://www.fotor.com/blog/best-free-ai-tools-for-teachers/)
+    
+4. **Canva Magic Write**  
+    An AI writing assistant within Canva that aids in brainstorming ideas, creating outlines, and generating engaging written content for educational materials.  
+    [Visit Canva Magic Write](https://www.ispringsolutions.com/blog/ai-tools-for-teachers)
+    
+
+---
+
+### 🟨 3. **Assignments**
+
+> **"Design personalized, curriculum-aligned assignments swiftly using AI."**
+
+1. **Eduaide.Ai**  
+    An AI-powered workspace designed to simplify lesson planning, resource creation, and student feedback, allowing for customized assignments.  
+    [Visit Eduaide.Ai](https://gptzero.me/news/best-ai-tools-teachers/)
+    
+2. **Quizizz**  
+    Enables teachers to create interactive quizzes and assignments, providing instant feedback and gamified learning experiences.  
+    [Visit Quizizz](https://www.ispringsolutions.com/blog/ai-tools-for-teachers)
+    
+3. **Kahoot!**  
+    A game-based learning platform that allows educators to create fun and engaging quizzes and assignments.  
+    [Visit Kahoot!](https://kahoot.com/)
+    
+4. **Class Companion**  
+    Provides personalized feedback on written assignments, allowing students to receive instant, detailed suggestions for improvement.  
+    [Visit Class Companion](https://gptzero.me/news/best-ai-tools-teachers/)
+    
+
+---
+
+### 🟧 4. **Tests & Exams**
+
+> **"Generate, structure, and review tests efficiently without compromising quality."**
+
+1. **Gradescope**  
+    Streamlines grading of various assessments, providing detailed analytics to inform teaching and improve student outcomes.  
+    [Visit Gradescope](https://www.aitoolmate.com/best-ai-tools-for-teachers/)
+    
+2. **Socrative**  
+    Helps educators create real-time assessments and quizzes, facilitating immediate feedback and student engagement.  
+    [Visit Socrative](https://www.socrative.com/)
+    
+3. **Formative**  
+    Allows teachers to create interactive assessments with real-time feedback, enhancing student learning experiences.  
+    [Visit Formative](https://goformative.com/)
+    
+4. **ClassMarker**  
+    A secure online testing platform for creating and grading custom tests and exams.  
+    [Visit ClassMarker](https://www.classmarker.com/)
+    
+
+---
+
+### 🟪 5. **Grading & Evaluation**
+
+> **"Grade smarter and faster with AI-driven insights and feedback."**
+
+1. **Turnitin Feedback Studio**  
+    Combines plagiarism detection with feedback tools, streamlining the grading process and ensuring academic integrity.  
+    [Visit Turnitin Feedback Studio](https://www.turnitin.com/products/feedback-studio)
+    
+2. **Gradescope**  
+    Provides AI-assisted grading workflows for various assignment formats, offering detailed analytics on student performance.  
+    [Visit Gradescope](https://www.aitoolmate.com/best-ai-tools-for-teachers/)
+    
+3. **Class Companion**  
+    Offers personalized feedback on student assignments, enhancing the grading process and student learning outcomes.  
+    [Visit Class Companion](https://gptzero.me/news/best-ai-tools-teachers/)
+    
+4. **Smodin AI Grader**  
+    An AI tool that assists in grading essays and providing evaluation metrics, saving time and ensuring consistency.  
+    [Visit Smodin AI Grader](https://smodin.io/grade)
+    
+
+---
+### 🟫 **Presentation & Teaching Aids**
+
+> **"Create engaging and effective teaching materials effortlessly."**
+
+1. **Brisk Teaching's AI Presentation Maker**  
+    Enables educators to generate presentations from various sources, including articles and videos, by specifying the topic, number of slides, and theme, resulting in real-time, customizable slides.  
+    [Visit Brisk Teaching's AI Presentation Maker](https://www.briskteaching.com/ai-tools-for-teachers)
+    
+2. **Canva's Magic Design™ for Presentations**  
+    An AI-powered tool that generates customizable, on-brand presentations quickly by simply describing the desired content, streamlining the design process.  
+    [Visit Canva's Magic Design™ for Presentations](https://www.canva.com/create/ai-presentations/)
+    
+3. **Slidesgo's AI Presentation Maker**  
+    Offers AI tools for education, allowing teachers and students to create presentations from scratch, generate lesson plans, and convert PDFs to PowerPoint presentations efficiently.  
+    [Visit Slidesgo's AI Presentation Maker](https://slidesgo.com/ai)
+    
+4. **Monsha's AI Presentation Slides Maker**  
+    Assists teachers in designing engaging, curriculum-aligned presentations tailored to specific subjects, grades, and learning objectives, with options to export as PPT or Google Slides.  
+    [Visit Monsha's AI Presentation Slides Maker](https://monsha.ai/tools/presentation-maker/)
+
+
+---
+
+### 🟫 **Feedback & Reporting**
+
+> **"Utilize AI to provide personalized feedback and generate comprehensive reports, enhancing student learning outcomes."**
+
+1. **Eduaide.Ai**  
+    An AI-powered workspace designed to simplify lesson planning, resource creation, and student feedback, allowing educators to provide customized evaluations efficiently.  
+    [Visit Eduaide.Ai](https://www.eduaide.ai/)
+    
+2. **TeachFX**  
+    Analyzes teacher-student interactions to provide feedback on teaching practices, helping educators improve their instructional methods through AI-driven insights.  
+    [Visit TeachFX](https://teachfx.com/)
+    
+3. **M-Powering Teachers**  
+    Developed by Stanford researchers, this tool offers feedback with examples of classroom dialogue to illustrate supportive conversational patterns, aiding in the improvement of teaching practices.  
+    [Learn more about M-Powering Teachers](https://news.stanford.edu/stories/2023/05/ai-feedback-tool-improves-teaching-practices)
+    
+4. **Turnitin Feedback Studio**  
+    Combines plagiarism detection with feedback tools, streamlining the grading process and ensuring academic integrity.  
+    [Visit Turnitin Feedback Studio](https://www.turnitin.com/products/feedback-studio)
+    
+
+---
+
+### 🟩 **Forums / Collaboration**
+
+> **"Enhance student engagement and collaborative learning through AI-powered forums and discussion platforms."**
+
+1. **Edmodo**  
+    An educational platform that integrates AI to offer educators professional development resources and peer collaboration opportunities, fostering a collaborative learning environment.  
+    [Visit Edmodo](https://new.edmodo.com/)
+    
+2. **BoilerTAI**  
+    A platform that integrates Generative AI with online educational forums, enhancing instructional support by facilitating interactions between student posts and large language models.  
+    [Learn more about BoilerTAI](https://arxiv.org/abs/2409.13196)
+    
+3. **Google Classroom**  
+    Facilitates communication and collaboration between teachers and students, integrating with various AI tools to enhance the learning experience.  
+    [Visit Google Classroom](https://classroom.google.com/)
+    
+4. **Microsoft Teams for Education**  
+    Provides a collaborative platform with AI features that support communication, assignments, and feedback, enhancing the educational experience.  
+    [Visit Microsoft Teams for Education](https://www.microsoft.com/en-us/education/products/teams)
+    
+
+---

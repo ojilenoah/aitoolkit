@@ -9,25 +9,33 @@ export interface Category {
 
 export const categories: Category[] = [
   {
-    id: "assignments",
-    name: "Assignments",
-    description: "Design personalized, curriculum-aligned assignments in minutes using AI.",
-    borderColor: "border-category-assignments",
-    bgColor: "bg-blue-100",
-    textColor: "text-category-assignments"
-  },
-  {
     id: "lessonPlans",
-    name: "Lesson Notes & Plans",
-    description: "Automate the creation of structured, standards-compliant lesson materials.",
+    name: "Lesson Plans",
+    description: "Effortlessly generate and customize comprehensive lesson plans tailored to your curriculum.",
     borderColor: "border-category-lessonPlans",
     bgColor: "bg-emerald-100",
     textColor: "text-category-lessonPlans"
   },
   {
+    id: "institutional",
+    name: "Institutional Resources",
+    description: "Access a variety of AI-enhanced resources to support institutional needs and educational materials.",
+    borderColor: "border-category-institutional",
+    bgColor: "bg-teal-100",
+    textColor: "text-category-institutional"
+  },
+  {
+    id: "assignments",
+    name: "Assignments",
+    description: "Design personalized, curriculum-aligned assignments swiftly using AI.",
+    borderColor: "border-category-assignments",
+    bgColor: "bg-blue-100",
+    textColor: "text-category-assignments"
+  },
+  {
     id: "tests",
     name: "Tests & Exams",
-    description: "Generate, structure, and review tests at scale without compromising quality.",
+    description: "Generate, structure, and review tests efficiently without compromising quality.",
     borderColor: "border-category-tests",
     bgColor: "bg-amber-100",
     textColor: "text-category-tests"
@@ -35,7 +43,7 @@ export const categories: Category[] = [
   {
     id: "grading",
     name: "Grading & Evaluation",
-    description: "Grade faster and smarter, with data-driven insights and feedback.",
+    description: "Grade smarter and faster with AI-driven insights and feedback.",
     borderColor: "border-category-grading",
     bgColor: "bg-red-100",
     textColor: "text-category-grading"
@@ -43,7 +51,7 @@ export const categories: Category[] = [
   {
     id: "presentation",
     name: "Presentation & Teaching Aids",
-    description: "Create visually engaging and pedagogically effective materials with ease.",
+    description: "Create engaging and effective teaching materials effortlessly.",
     borderColor: "border-category-presentation",
     bgColor: "bg-amber-100",
     textColor: "text-category-presentation"
@@ -51,7 +59,7 @@ export const categories: Category[] = [
   {
     id: "feedback",
     name: "Feedback & Reporting",
-    description: "Deliver actionable feedback and build student confidence.",
+    description: "Utilize AI to provide personalized feedback and generate comprehensive reports.",
     borderColor: "border-category-feedback",
     bgColor: "bg-purple-100",
     textColor: "text-category-feedback"
@@ -59,7 +67,7 @@ export const categories: Category[] = [
   {
     id: "forums",
     name: "Forums / Collaboration",
-    description: "Foster teacher collaboration and classroom engagement communities.",
+    description: "Enhance student engagement and collaborative learning through AI-powered platforms.",
     borderColor: "border-category-forums",
     bgColor: "bg-orange-100",
     textColor: "text-category-forums"

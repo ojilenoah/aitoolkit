@@ -25,6 +25,10 @@
   @apply text-emerald-600;
 }
 
+.text-category-institutional {
+  @apply text-teal-600;
+}
+
 .text-category-tests {
   @apply text-amber-600;
 }
@@ -52,6 +56,10 @@
 
 .border-category-lessonPlans {
   @apply border-emerald-600;
+}
+
+.border-category-institutional {
+  @apply border-teal-600;
 }
 
 .border-category-tests {

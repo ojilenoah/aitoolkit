@@ -7,214 +7,244 @@ export interface Tool {
 }
 
 export const tools: Tool[] = [
-  // Assignments
-  {
-    id: "chatgpt-edu",
-    categoryId: "assignments",
-    name: "ChatGPT Edu",
-    description: "Brainstorm assignment ideas, provide variations, simplify language.",
-    url: "https://chat.openai.com/"
-  },
-  {
-    id: "eduaide-ai",
-    categoryId: "assignments",
-    name: "Eduaide.ai",
-    description: "Generates full assignment prompts, includes grading criteria.",
-    url: "https://eduaide.ai/"
-  },
-  {
-    id: "quizgecko",
-    categoryId: "assignments",
-    name: "QuizGecko",
-    description: "Converts raw text into customizable quizzes.",
-    url: "https://quizgecko.com/"
-  },
-  {
-    id: "kahoot",
-    categoryId: "assignments",
-    name: "Kahoot!",
-    description: "Turns assignments into game-based learning experiences.",
-    url: "https://kahoot.com/"
-  },
-  
   // Lesson Plans
-  {
-    id: "lessonplans-ai",
-    categoryId: "lessonPlans",
-    name: "LessonPlans.ai",
-    description: "Automatically generates full lesson plans.",
-    url: "https://example.com/lessonplans-ai"
-  },
   {
     id: "education-copilot",
     categoryId: "lessonPlans",
     name: "Education Copilot",
-    description: "Prepares notes, quizzes, worksheets, and outlines.",
-    url: "https://example.com/education-copilot"
+    description: "AI-powered platform assisting teachers in creating structured lesson plans across various subjects.",
+    url: "https://educationcopilot.com/ai-lesson-plans/"
   },
   {
-    id: "diffit",
+    id: "lessonplans-ai",
     categoryId: "lessonPlans",
-    name: "Diffit",
-    description: "Translates content to multiple reading levels.",
-    url: "https://example.com/diffit"
+    name: "LessonPlans.ai",
+    description: "Generates detailed lesson plans with step-by-step guides and engaging activities.",
+    url: "https://www.aitoolmate.com/best-ai-tools-for-teachers/"
+  },
+  {
+    id: "curipod",
+    categoryId: "lessonPlans",
+    name: "Curipod",
+    description: "Simplifies lesson planning by generating inquiry-based lessons tailored to specific grades and topics.",
+    url: "https://www.aitoolmate.com/best-ai-tools-for-teachers/"
   },
   {
     id: "magicschool-ai",
     categoryId: "lessonPlans",
     name: "MagicSchool.ai",
-    description: "Generates differentiated lesson content and activities.",
-    url: "https://example.com/magicschool-ai"
+    description: "Suite of AI tools to automate educational tasks, including lesson planning for all grade levels.",
+    url: "https://www.ispringsolutions.com/blog/ai-tools-for-teachers"
+  },
+  
+  // Institutional Resources
+  {
+    id: "freepik-ai",
+    categoryId: "institutional",
+    name: "Freepik AI",
+    description: "Provides AI-generated images and design resources for visually appealing educational content.",
+    url: "https://www.freepik.com/ai"
+  },
+  {
+    id: "roshi-ai",
+    categoryId: "institutional",
+    name: "Roshi AI",
+    description: "Helps teachers create learning materials from online content, simplifying text and generating questions.",
+    url: "https://www.aitoolmate.com/best-ai-tools-for-teachers/"
+  },
+  {
+    id: "difft",
+    categoryId: "institutional",
+    name: "Difft",
+    description: "Creates differentiated text resources, summaries, and comprehension questions for various reading levels.",
+    url: "https://www.fotor.com/blog/best-free-ai-tools-for-teachers/"
+  },
+  {
+    id: "canva-magic-write",
+    categoryId: "institutional",
+    name: "Canva Magic Write",
+    description: "AI writing assistant that aids in brainstorming, creating outlines, and generating engaging written content.",
+    url: "https://www.ispringsolutions.com/blog/ai-tools-for-teachers"
+  },
+  
+  // Assignments
+  {
+    id: "eduaide-ai",
+    categoryId: "assignments",
+    name: "Eduaide.Ai",
+    description: "AI-powered workspace that simplifies lesson planning, resource creation, and customized assignments.",
+    url: "https://gptzero.me/news/best-ai-tools-teachers/"
+  },
+  {
+    id: "quizizz",
+    categoryId: "assignments",
+    name: "Quizizz",
+    description: "Create interactive quizzes and assignments with instant feedback and gamified learning experiences.",
+    url: "https://www.ispringsolutions.com/blog/ai-tools-for-teachers"
+  },
+  {
+    id: "kahoot",
+    categoryId: "assignments",
+    name: "Kahoot!",
+    description: "Game-based learning platform for creating fun and engaging quizzes and assignments.",
+    url: "https://kahoot.com/"
+  },
+  {
+    id: "class-companion",
+    categoryId: "assignments",
+    name: "Class Companion",
+    description: "Provides personalized feedback on written assignments with instant, detailed suggestions for improvement.",
+    url: "https://gptzero.me/news/best-ai-tools-teachers/"
   },
   
   // Tests & Exams
   {
-    id: "formative",
+    id: "gradescope-tests",
     categoryId: "tests",
-    name: "Formative",
-    description: "Creates interactive assessments with real-time feedback.",
-    url: "https://example.com/formative"
+    name: "Gradescope",
+    description: "Streamlines grading of various assessments with detailed analytics to inform teaching.",
+    url: "https://www.aitoolmate.com/best-ai-tools-for-teachers/"
   },
   {
     id: "socrative",
     categoryId: "tests",
     name: "Socrative",
-    description: "Helps teachers prepare real-time assessments and quizzes.",
-    url: "https://example.com/socrative"
+    description: "Helps educators create real-time assessments and quizzes with immediate feedback.",
+    url: "https://www.socrative.com/"
   },
   {
-    id: "smodin-ai-tests",
+    id: "formative",
     categoryId: "tests",
-    name: "Smodin AI",
-    description: "Generates multiple-choice or descriptive questions.",
-    url: "https://example.com/smodin-ai"
+    name: "Formative",
+    description: "Creates interactive assessments with real-time feedback to enhance student learning experiences.",
+    url: "https://goformative.com/"
   },
   {
     id: "classmarker",
     categoryId: "tests",
     name: "ClassMarker",
-    description: "A secure platform for setting and marking online tests.",
-    url: "https://example.com/classmarker"
+    description: "A secure online testing platform for creating and grading custom tests and exams.",
+    url: "https://www.classmarker.com/"
   },
   
   // Grading & Evaluation
   {
-    id: "gradescope",
-    categoryId: "grading",
-    name: "Gradescope",
-    description: "Smart grading workflows for multiple formats.",
-    url: "https://example.com/gradescope"
-  },
-  {
     id: "turnitin-feedback-studio-grading",
     categoryId: "grading",
     name: "Turnitin Feedback Studio",
-    description: "Plagiarism detection + feedback tools.",
-    url: "https://example.com/turnitin"
+    description: "Combines plagiarism detection with feedback tools to ensure academic integrity.",
+    url: "https://www.turnitin.com/products/feedback-studio"
   },
   {
-    id: "classpoint-ai",
+    id: "gradescope",
     categoryId: "grading",
-    name: "ClassPoint AI",
-    description: "Real-time quiz grading and analytics.",
-    url: "https://example.com/classpoint-ai"
+    name: "Gradescope",
+    description: "AI-assisted grading workflows for various assignment formats with detailed analytics.",
+    url: "https://www.aitoolmate.com/best-ai-tools-for-teachers/"
+  },
+  {
+    id: "class-companion-grading",
+    categoryId: "grading",
+    name: "Class Companion",
+    description: "Offers personalized feedback on student assignments to enhance learning outcomes.",
+    url: "https://gptzero.me/news/best-ai-tools-teachers/"
   },
   {
     id: "smodin-ai-grading",
     categoryId: "grading",
-    name: "Smodin AI",
-    description: "AI-assisted paper grading and evaluation metrics.",
-    url: "https://example.com/smodin-ai-grading"
+    name: "Smodin AI Grader",
+    description: "Assists in grading essays and providing evaluation metrics for consistency.",
+    url: "https://smodin.io/grade"
   },
   
   // Presentation & Teaching Aids
   {
-    id: "canva-magic-write",
+    id: "brisk-teaching-presentation",
     categoryId: "presentation",
-    name: "Canva Magic Write",
-    description: "Generate slide text and visuals for lessons.",
-    url: "https://example.com/canva-magic-write"
+    name: "Brisk Teaching's AI Presentation Maker",
+    description: "Generate presentations from various sources by specifying topic, slides count, and theme.",
+    url: "https://www.briskteaching.com/ai-tools-for-teachers"
   },
   {
-    id: "beautiful-ai",
+    id: "canva-magic-design",
     categoryId: "presentation",
-    name: "Beautiful.ai",
-    description: "AI-powered slide design engine.",
-    url: "https://example.com/beautiful-ai"
+    name: "Canva's Magic Design™ for Presentations",
+    description: "AI-powered tool that generates customizable presentations quickly by describing the desired content.",
+    url: "https://www.canva.com/create/ai-presentations/"
   },
   {
-    id: "gamma",
+    id: "slidesgo-presentation",
     categoryId: "presentation",
-    name: "Gamma",
-    description: "Conversational AI that builds interactive slide decks.",
-    url: "https://example.com/gamma"
+    name: "Slidesgo's AI Presentation Maker",
+    description: "Create presentations from scratch, generate lesson plans, and convert PDFs to PowerPoint.",
+    url: "https://slidesgo.com/ai"
   },
   {
-    id: "powerpoint-speaker-coach",
+    id: "monsha-presentation",
     categoryId: "presentation",
-    name: "PowerPoint Speaker Coach",
-    description: "Helps practice delivery with live feedback.",
-    url: "https://example.com/powerpoint-speaker-coach"
+    name: "Monsha's AI Presentation Slides Maker",
+    description: "Design engaging presentations tailored to specific subjects and learning objectives.",
+    url: "https://monsha.ai/tools/presentation-maker/"
   },
   
   // Feedback & Reporting
   {
+    id: "eduaide-ai-feedback",
+    categoryId: "feedback",
+    name: "Eduaide.Ai",
+    description: "AI-powered workspace for providing customized evaluations efficiently.",
+    url: "https://www.eduaide.ai/"
+  },
+  {
+    id: "teachfx",
+    categoryId: "feedback",
+    name: "TeachFX",
+    description: "Analyzes teacher-student interactions to provide feedback on teaching practices.",
+    url: "https://teachfx.com/"
+  },
+  {
+    id: "m-powering-teachers",
+    categoryId: "feedback",
+    name: "M-Powering Teachers",
+    description: "Offers feedback with examples of classroom dialogue to illustrate supportive conversational patterns.",
+    url: "https://news.stanford.edu/stories/2023/05/ai-feedback-tool-improves-teaching-practices"
+  },
+  {
     id: "turnitin-feedback-studio",
     categoryId: "feedback",
     name: "Turnitin Feedback Studio",
-    description: "Comment and mark up assignments clearly.",
-    url: "https://example.com/turnitin-feedback"
-  },
-  {
-    id: "eduaide-ai-feedback",
-    categoryId: "feedback",
-    name: "Eduaide AI",
-    description: "Personalized feedback generation.",
-    url: "https://example.com/eduaide-ai-feedback"
-  },
-  {
-    id: "mentimeter",
-    categoryId: "feedback",
-    name: "Mentimeter",
-    description: "Live polls and quizzes for real-time feedback.",
-    url: "https://example.com/mentimeter"
-  },
-  {
-    id: "kaizena",
-    categoryId: "feedback",
-    name: "Kaizena",
-    description: "Voice feedback on student work in Google Docs.",
-    url: "https://example.com/kaizena"
+    description: "Combines plagiarism detection with feedback tools for academic integrity.",
+    url: "https://www.turnitin.com/products/feedback-studio"
   },
   
   // Forums / Collaboration
   {
-    id: "classdojo",
+    id: "edmodo",
     categoryId: "forums",
-    name: "ClassDojo",
-    description: "Collaborative hub for teachers, parents, and students.",
-    url: "https://example.com/classdojo"
+    name: "Edmodo",
+    description: "Educational platform with AI that offers professional development resources and peer collaboration.",
+    url: "https://new.edmodo.com/"
   },
   {
-    id: "khanmigo",
+    id: "boilertai",
     categoryId: "forums",
-    name: "Khanmigo (Khan Academy)",
-    description: "AI tutor/chatbot + classroom insights.",
-    url: "https://example.com/khanmigo"
+    name: "BoilerTAI",
+    description: "Integrates Generative AI with online educational forums to enhance instructional support.",
+    url: "https://arxiv.org/abs/2409.13196"
   },
   {
-    id: "school-ai",
+    id: "google-classroom",
     categoryId: "forums",
-    name: "SchoolAI",
-    description: "Custom teacher and student discussion hubs.",
-    url: "https://example.com/school-ai"
+    name: "Google Classroom",
+    description: "Facilitates communication and collaboration between teachers and students with various AI tools.",
+    url: "https://classroom.google.com/"
   },
   {
-    id: "brainly",
+    id: "microsoft-teams-edu",
     categoryId: "forums",
-    name: "Brainly",
-    description: "Peer-based community for answering academic questions.",
-    url: "https://example.com/brainly"
+    name: "Microsoft Teams for Education",
+    description: "Collaborative platform with AI features for communication, assignments, and feedback.",
+    url: "https://www.microsoft.com/en-us/education/products/teams"
   }
 ];
 
