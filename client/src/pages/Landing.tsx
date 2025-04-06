@@ -1,6 +1,9 @@
 import { useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
-import { ArrowRight, BookOpen, HelpCircle, Mail, Home } from "lucide-react";
+import { 
+  ArrowRight, BookOpen, HelpCircle, Mail, Home, FileText, TestTube, 
+  CheckSquare, ChartBarStacked, MessageSquare, Users, Building, ScanText, Images 
+} from "lucide-react";
 import { categories } from "@/data/categories";
 
 export default function Landing() {
@@ -18,6 +21,8 @@ export default function Landing() {
         return "text-blue-600 bg-blue-100";
       case "lessonPlans":
         return "text-emerald-600 bg-emerald-100";
+      case "institutional":
+        return "text-teal-600 bg-teal-100";
       case "tests":
         return "text-amber-600 bg-amber-100";
       case "grading":
@@ -28,6 +33,10 @@ export default function Landing() {
         return "text-purple-600 bg-purple-100";
       case "forums":
         return "text-orange-600 bg-orange-100";
+      case "summary":
+        return "text-indigo-600 bg-indigo-100";
+      case "images":
+        return "text-pink-600 bg-pink-100";
       default:
         return "text-gray-600 bg-gray-100";
     }
@@ -39,12 +48,15 @@ export default function Landing() {
     return (
       <div className={`rounded-lg p-3 ${colorClass}`}>
         {id === "assignments" && <BookOpen className="h-6 w-6" />}
-        {id === "lessonPlans" && <BookOpen className="h-6 w-6" />}
-        {id === "tests" && <HelpCircle className="h-6 w-6" />}
-        {id === "grading" && <ArrowRight className="h-6 w-6" />}
-        {id === "presentation" && <ArrowRight className="h-6 w-6" />}
-        {id === "feedback" && <Mail className="h-6 w-6" />}
-        {id === "forums" && <ArrowRight className="h-6 w-6" />}
+        {id === "lessonPlans" && <FileText className="h-6 w-6" />}
+        {id === "institutional" && <Building className="h-6 w-6" />}
+        {id === "tests" && <TestTube className="h-6 w-6" />}
+        {id === "grading" && <CheckSquare className="h-6 w-6" />}
+        {id === "presentation" && <ChartBarStacked className="h-6 w-6" />}
+        {id === "feedback" && <MessageSquare className="h-6 w-6" />}
+        {id === "forums" && <Users className="h-6 w-6" />}
+        {id === "summary" && <ScanText className="h-6 w-6" />}
+        {id === "images" && <Images className="h-6 w-6" />}
       </div>
     );
   };

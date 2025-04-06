@@ -7,7 +7,10 @@ import CategoryCard from "@/components/CategoryCard";
 import Modal from "@/components/Modal";
 import { categories } from "@/data/categories";
 import { getToolsByCategory } from "@/data/tools";
-import { FileText, TestTube, CheckSquare, ChartBarStacked, MessageSquare, Users } from "lucide-react";
+import { 
+  FileText, TestTube, CheckSquare, ChartBarStacked, MessageSquare, Users, 
+  Building, BookOpen, ScanText, Images
+} from "lucide-react";
 
 export default function Dashboard() {
   const [, setLocation] = useLocation();
@@ -39,12 +42,17 @@ export default function Dashboard() {
   const categoryIcons: { [key: string]: JSX.Element } = {
     assignments: (
       <div className="bg-blue-100 rounded-lg w-full h-full flex items-center justify-center">
-        <FileText className="h-6 w-6 text-category-assignments" />
+        <BookOpen className="h-6 w-6 text-category-assignments" />
       </div>
     ),
     lessonPlans: (
       <div className="bg-emerald-100 rounded-lg w-full h-full flex items-center justify-center">
         <FileText className="h-6 w-6 text-category-lessonPlans" />
+      </div>
+    ),
+    institutional: (
+      <div className="bg-teal-100 rounded-lg w-full h-full flex items-center justify-center">
+        <Building className="h-6 w-6 text-category-institutional" />
       </div>
     ),
     tests: (
@@ -70,6 +78,16 @@ export default function Dashboard() {
     forums: (
       <div className="bg-orange-100 rounded-lg w-full h-full flex items-center justify-center">
         <Users className="h-6 w-6 text-category-forums" />
+      </div>
+    ),
+    summary: (
+      <div className="bg-indigo-100 rounded-lg w-full h-full flex items-center justify-center">
+        <ScanText className="h-6 w-6 text-category-summary" />
+      </div>
+    ),
+    images: (
+      <div className="bg-pink-100 rounded-lg w-full h-full flex items-center justify-center">
+        <Images className="h-6 w-6 text-category-images" />
       </div>
     ),
   };
