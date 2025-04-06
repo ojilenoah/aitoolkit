@@ -10,4 +10,66 @@
   body {
     @apply font-sans antialiased bg-background text-foreground;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Category Colors */
+.text-category-assignments {
+  @apply text-blue-600;
+}
+
+.text-category-lessonPlans {
+  @apply text-emerald-600;
+}
+
+.text-category-tests {
+  @apply text-amber-600;
+}
+
+.text-category-grading {
+  @apply text-red-600;
+}
+
+.text-category-presentation {
+  @apply text-amber-600;
+}
+
+.text-category-feedback {
+  @apply text-purple-600;
+}
+
+.text-category-forums {
+  @apply text-orange-600;
+}
+
+/* Border Colors */
+.border-category-assignments {
+  @apply border-blue-600;
+}
+
+.border-category-lessonPlans {
+  @apply border-emerald-600;
+}
+
+.border-category-tests {
+  @apply border-amber-600;
+}
+
+.border-category-grading {
+  @apply border-red-600;
+}
+
+.border-category-presentation {
+  @apply border-amber-600;
+}
+
+.border-category-feedback {
+  @apply border-purple-600;
+}
+
+.border-category-forums {
+  @apply border-orange-600;
 }

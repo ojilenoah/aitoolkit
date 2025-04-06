@@ -5,12 +5,14 @@ import { Toaster } from "@/components/ui/toaster";
 import NotFound from "@/pages/not-found";
 import Login from "@/pages/Login";
 import Dashboard from "@/pages/Dashboard";
+import Landing from "@/pages/Landing";
 import { AuthProvider } from "./context/AuthContext";
 
 function Router() {
   return (
     <Switch>
-      <Route path="/" component={Login} />
+      <Route path="/" component={Landing} />
+      <Route path="/login" component={Login} />
       <Route path="/dashboard" component={Dashboard} />
       <Route component={NotFound} />
     </Switch>
