@@ -189,62 +189,55 @@ export const tools: Tool[] = [
   
   // Feedback & Reporting
   {
-    id: "eduaide-ai-feedback",
-    categoryId: "feedback",
-    name: "Eduaide.Ai",
-    description: "AI-powered workspace for providing customized evaluations efficiently.",
-    url: "https://www.eduaide.ai/"
-  },
-  {
-    id: "teachfx",
-    categoryId: "feedback",
-    name: "TeachFX",
-    description: "Analyzes teacher-student interactions to provide feedback on teaching practices.",
-    url: "https://teachfx.com/"
-  },
-  {
-    id: "m-powering-teachers",
-    categoryId: "feedback",
-    name: "M-Powering Teachers",
-    description: "Offers feedback with examples of classroom dialogue to illustrate supportive conversational patterns.",
-    url: "https://news.stanford.edu/stories/2023/05/ai-feedback-tool-improves-teaching-practices"
-  },
-  {
     id: "turnitin-feedback-studio",
     categoryId: "feedback",
     name: "Turnitin Feedback Studio",
     description: "Combines plagiarism detection with feedback tools for academic integrity.",
     url: "https://www.turnitin.com/products/feedback-studio"
   },
+  {
+    id: "mentimeter",
+    categoryId: "feedback",
+    name: "Mentimeter",
+    description: "Interactive presentation platform that allows real-time audience engagement and feedback.",
+    url: "https://www.mentimeter.com"
+  },
+  {
+    id: "mote-google-docs",
+    categoryId: "feedback",
+    name: "Mote for Google Docs",
+    description: "Voice notes and feedback tool that integrates with Google Workspace to enhance communication.",
+    url: "https://www.mote.com"
+  },
   
   // Forums / Collaboration
   {
-    id: "edmodo",
+    id: "classdojo",
     categoryId: "forums",
-    name: "Edmodo",
-    description: "Educational platform with AI that offers professional development resources and peer collaboration.",
-    url: "https://new.edmodo.com/"
+    name: "ClassDojo",
+    description: "Collaborative platform connecting teachers, students, and families to build amazing classroom communities.",
+    url: "https://www.classdojo.com"
   },
   {
-    id: "boilertai",
+    id: "khanmigo",
     categoryId: "forums",
-    name: "BoilerTAI",
-    description: "Integrates Generative AI with online educational forums to enhance instructional support.",
-    url: "https://arxiv.org/abs/2409.13196"
+    name: "Khanmigo (Khan Academy)",
+    description: "AI tutor and teaching assistant that provides personalized guidance (requires waitlist).",
+    url: "https://www.khanacademy.org/khan-labs"
   },
   {
-    id: "google-classroom",
+    id: "schoolai",
     categoryId: "forums",
-    name: "Google Classroom",
-    description: "Facilitates communication and collaboration between teachers and students with various AI tools.",
-    url: "https://classroom.google.com/"
+    name: "SchoolAI",
+    description: "AI-powered platform designed to enhance classroom collaboration and learning experiences.",
+    url: "https://www.schoolai.com"
   },
   {
-    id: "microsoft-teams-edu",
+    id: "brainly",
     categoryId: "forums",
-    name: "Microsoft Teams for Education",
-    description: "Collaborative platform with AI features for communication, assignments, and feedback.",
-    url: "https://www.microsoft.com/en-us/education/products/teams"
+    name: "Brainly",
+    description: "Peer-based learning community where students can ask and answer homework questions.",
+    url: "https://brainly.com"
   }
 ];
 
