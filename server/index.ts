@@ -1,6 +1,7 @@
 import express, { type Request, Response, NextFunction } from "express";
 import { registerRoutes } from "./routes";
 import { setupVite, serveStatic, log } from "./vite";
+import { enhanceStaticServing } from "./static-handler";
 
 const app = express();
 app.use(express.json());
@@ -47,12 +48,17 @@ app.use((req, res, next) => {
     throw err;
   });
 
+  // API endpoints should be registered above this line
+  
   // importantly only setup vite in development and after
   // setting up all the other routes so the catch-all route
   // doesn't interfere with the other routes
   if (app.get("env") === "development") {
     await setupVite(app, server);
   } else {
+    // Apply our enhanced static file handling for production
+    enhanceStaticServing(app);
+    // Fall back to the default static serving
     serveStatic(app);
   }
 
