@@ -18,7 +18,7 @@ export const categories: Category[] = [
   },
   {
     id: "institutional",
-    name: "Institutional Resources",
+    name: "Instructional Resources",
     description: "Access a variety of AI-enhanced resources to support institutional needs and educational materials.",
     borderColor: "border-category-institutional",
     bgColor: "bg-teal-100",
