@@ -37,6 +37,66 @@ export const tools: Tool[] = [
     url: "https://www.ispringsolutions.com/blog/ai-tools-for-teachers"
   },
   
+  // Content Summarization
+  {
+    id: "resoomer",
+    categoryId: "summary",
+    name: "Resoomer",
+    description: "AI-powered text summarization tool that condenses articles, essays, and documents while retaining key information.",
+    url: "https://resoomer.com/"
+  },
+  {
+    id: "quillbot-summarizer",
+    categoryId: "summary",
+    name: "QuillBot Summarizer",
+    description: "Creates concise summaries from long texts, allowing adjustable length and maintaining essential content.",
+    url: "https://quillbot.com/summarize"
+  },
+  {
+    id: "genei",
+    categoryId: "summary",
+    name: "Genei",
+    description: "Automatically summarizes research papers and articles to help students and teachers save time on reading.",
+    url: "https://www.genei.io/"
+  },
+  {
+    id: "wordtune-read",
+    categoryId: "summary",
+    name: "Wordtune Read",
+    description: "Analyzes long articles and provides key insights, summaries, and main points for quick comprehension.",
+    url: "https://www.wordtune.com/read"
+  },
+  
+  // Images & Diagrams
+  {
+    id: "canva-text-to-image",
+    categoryId: "images",
+    name: "Canva Text to Image",
+    description: "Creates custom educational visuals from text descriptions to illustrate concepts and enhance materials.",
+    url: "https://www.canva.com/features/text-to-image/"
+  },
+  {
+    id: "dall-e",
+    categoryId: "images",
+    name: "DALL-E",
+    description: "OpenAI's image generation tool that can create detailed educational illustrations from text prompts.",
+    url: "https://openai.com/dall-e-3"
+  },
+  {
+    id: "lucidchart",
+    categoryId: "images",
+    name: "Lucidchart",
+    description: "Creates professional diagrams, concept maps, and flowcharts with AI assistance for educational materials.",
+    url: "https://www.lucidchart.com/pages/"
+  },
+  {
+    id: "miro-ai",
+    categoryId: "images",
+    name: "Miro AI",
+    description: "Collaborative whiteboard platform with AI capabilities for creating visual learning materials and concept maps.",
+    url: "https://miro.com/ai-features/"
+  },
+  
   // Institutional Resources
   {
     id: "freepik-ai",

@@ -49,6 +49,14 @@
   @apply text-orange-600;
 }
 
+.text-category-summary {
+  @apply text-indigo-600;
+}
+
+.text-category-images {
+  @apply text-pink-600;
+}
+
 /* Border Colors */
 .border-category-assignments {
   @apply border-blue-600;
@@ -80,4 +88,12 @@
 
 .border-category-forums {
   @apply border-orange-600;
+}
+
+.border-category-summary {
+  @apply border-indigo-600;
+}
+
+.border-category-images {
+  @apply border-pink-600;
 }

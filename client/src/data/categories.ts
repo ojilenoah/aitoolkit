@@ -71,5 +71,21 @@ export const categories: Category[] = [
     borderColor: "border-category-forums",
     bgColor: "bg-orange-100",
     textColor: "text-category-forums"
+  },
+  {
+    id: "summary",
+    name: "Content Summarization",
+    description: "Transform complex texts into concise, clear summaries for better comprehension and retention.",
+    borderColor: "border-category-summary",
+    bgColor: "bg-indigo-100",
+    textColor: "text-category-summary"
+  },
+  {
+    id: "images",
+    name: "Images & Diagrams",
+    description: "Create educational visuals, diagrams, and concept maps to enhance visual learning.",
+    borderColor: "border-category-images",
+    bgColor: "bg-pink-100",
+    textColor: "text-category-images"
   }
 ];
